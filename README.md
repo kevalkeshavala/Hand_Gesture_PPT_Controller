@@ -39,3 +39,5 @@ Press Q on the keyboard to exit.
 Make sure the presentation window is in focus, otherwise keystrokes won’t work.
 Lighting conditions affect detection accuracy. Use in a well-lit room.
 You can adjust the cooldown value in the code to avoid accidental multiple triggers.
+
+👤 Developer KevalKing Instagram: @keval_king_212
