@@ -85,15 +85,6 @@ You can install everything with one command:
 
 # 📂 Project Structure
 
-
-HandGesturePPTController
-│
-├── gesture_ppt_controller.py
-├── README.md
-
-
----
-
 # ▶️ How to Run the Project
 
 ### 1️⃣ Clone or Download the Project
